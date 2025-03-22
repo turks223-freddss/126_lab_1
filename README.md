@@ -1,3 +1,11 @@
+#steps to run 
+prepare 2 terminal 
+1st terminal run : python main.py server
+2mf terminal run: python main.py client
+
+
+
+
 # 126_lab_1
 Lab 1: Simulating the OSI Model from Scratch in Python
 Objective
