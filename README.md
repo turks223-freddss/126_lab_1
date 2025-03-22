@@ -1,8 +1,9 @@
-#steps to run 
-prepare 2 terminal 
-1st terminal run : python main.py server
-2mf terminal run: python main.py client
+# How to Run the OSI Model Simulation
 
+## Steps to Run:
+1. Open **two terminal windows**.
+2. In the **first terminal**, start server using : python main.py server
+3. in the **2nf terminal**, start client using: python main.py client
 
 
 
